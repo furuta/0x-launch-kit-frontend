@@ -1,6 +1,6 @@
 {
     "name": "0x-launch-kit-frontend",
-    "version": "0.3.0",
+    "version": "1.19.2",
     "private": true,
     "dependencies": {
         "@0x/connect": "^6.0.0",
